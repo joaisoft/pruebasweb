@@ -76,7 +76,7 @@ export function navbar() {
               <div class="container mega-menu-grid py-4">
                 <div id="submenu-desarrollo" class="submenu d-none">
                   <h6 class="submenu-title">Desarrollo Web</h6>
-                  <a href="desarrolloWeb.html" class="submenu-item">Diseño y desarrollo de páginas</a>
+                  <a href="desarrolloweb.html" class="submenu-item">Diseño y desarrollo de páginas</a>
                   <a href="porfolioweb.html" class="submenu-item">Desarrollo de porfolios web</a>
                   <a href="aplicaciones.html" class="submenu-item">Aplicaciones a medida</a>
                   <a href="hosting.html" class="submenu-item">Dominio y Hosting</a>
@@ -147,3 +147,4 @@ export function navbar() {
     });
   }
 }
+
